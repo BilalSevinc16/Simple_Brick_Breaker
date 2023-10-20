@@ -1,16 +1,9 @@
-# simple_brick_breaker
+# Simple Brick Breaker
 
-A new Flutter project.
+Simple Brick Breaker
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Brick_Breaker/assets/146417248/10f91aee-0815-49aa-b86d-4147ed4c59e5)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Brick_Breaker/assets/146417248/8a57cac2-82ec-45c0-8ede-4c4f3e6692d8)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/BilalSevinc16/Simple_Brick_Breaker/assets/146417248/c6dc2246-9042-4188-80d2-5299f1d4a28a)
